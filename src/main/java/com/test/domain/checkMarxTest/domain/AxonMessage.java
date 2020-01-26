@@ -1,4 +1,4 @@
-package domain;
+package com.test.domain.checkMarxTest.domain;
 
 
 public class AxonMessage {
